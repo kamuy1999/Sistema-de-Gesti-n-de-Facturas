@@ -14,12 +14,16 @@ Xochitl Esmeralda Hernandez Castañeda
 Sarai
 
 Ejercicio 4: Sistema de Gestión de Facturas
+
 Descripción
+
 Crea un sistema para gestionar facturas de una empresa. Debe haber clases para representar
 diferentes tipos de facturas (por ejemplo, facturas de productos, facturas de servicios, etc.). Utiliza
 herencia, interfaces y polimorfismo para calcular el total de la factura y mostrar la información
 detallada.
+
 Instrucciones
+
 ● Crea un paquete llamado facturas.
 ● Dentro de facturas, crea una interfaz llamada Facturable con métodos para calcular el total
 de la factura y mostrar la información detallada.
